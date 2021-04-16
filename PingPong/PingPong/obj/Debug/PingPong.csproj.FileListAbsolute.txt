@@ -1,0 +1,11 @@
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\bin\Debug\OpenTK.dll
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\bin\Debug\OpenTK.pdb
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\bin\Debug\OpenTK.xml
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\boche\Desktop\Atividades_Generation\Projeto-CSharp\PingPong\PingPong\obj\Debug\PingPong.pdb
